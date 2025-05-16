@@ -13,3 +13,6 @@ A simple 2D Space Shooter game built using **Python** and **Pygame**. Players co
 - 🔊 Sound effects (laser & explosion)
 - 🧠 Basic collision detection
 - 🎯 Score tracking
+
+## 🖥️ Screenshots
+![image](https://github.com/user-attachments/assets/a1f3a29c-5257-43f4-a9eb-6d65aeec387b)
